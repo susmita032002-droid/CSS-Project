@@ -22,7 +22,7 @@ Beginner-friendly and readable code
 
 How to Run the Project:
 Clone the repository:
-git clone https://github.com/your-username/amazon-project.git
+git clone https:https://github.com/susmita032002-droid/CSS-Project.git
 Open the folder in VS Code
 Open index.html
 Run using Live Server or open in browser
